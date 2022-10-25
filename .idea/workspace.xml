@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fc4d1c-3e9b-4a76-94df-00aa6c4fe3b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.syntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiersHwClass16/HomeWork2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiersHwClass16/HomeWork3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiersHwClass16/HowWork1AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/homeWork1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22homeWork/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22homeWork/studentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkClass19Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkClass19Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkClass19Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkClass19Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaClass21/homeWork1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaClass21/homeWork2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes.txt-typeCasting-class4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass10132022/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reviewClass10132022/Teacher.java" afterDir="false" />
+    <list default="true" id="f5fc4d1c-3e9b-4a76-94df-00aa6c4fe3b7" name="Changes" comment="intellij codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +120,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664674411601</updated>
     </task>
+    <task id="LOCAL-00001" summary="intellij codes">
+      <created>1666714088619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666714088619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intellij codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellij codes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
