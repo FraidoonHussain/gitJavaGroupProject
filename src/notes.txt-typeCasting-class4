@@ -1,0 +1,26 @@
+* Type casting  (primitive data types)
+What is the syntax for type casting? --> We use () and inside the () we write the destination data type
+For example: --> to convert a long data type to an int this is how we can do it:
+
+    long var1 =250; 
+    int var2 = (int) var1;  --> this is called Explicit/narrowing/Manual
+    double var3 =var2 ---> this is called Implicit/widening/automatic
+    
+    If else conditions ---> If else conditions helps us write codes that the decision based on data.
+    For example --> If (the given username and password matches)
+    {go to home page} else {given user a warning}
+    For example:
+    boolean isHungry = true;
+    
+    if (isHungry) {
+    System.out.println("Eat some penne pasta");
+    }else{
+    System.out.println("Drink some water and go to sleep");
+        }
+    
+    */
+
+
+
+
+}
